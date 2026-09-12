@@ -1,0 +1,7 @@
+{
+  "name": "pruebaMantenimiento",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
