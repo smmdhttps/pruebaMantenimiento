@@ -1,3 +1,1 @@
-cd ~/Documents/proyectoMantenimiento
-echo "24.15.0" > .nvmrc
-cat .nvmrc
+24.15.0
